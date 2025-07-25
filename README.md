@@ -25,3 +25,14 @@ utils/
 env.example
 - index.js
 - package.json
+
+## Setup Instructions
+
+### Requirements
+- Node.js v16.9 or higher
+- Discord bot token with `application.commands` and `bot` permissions
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/quickmod-discord-bot.git
+cd quickmod-discord-bot
