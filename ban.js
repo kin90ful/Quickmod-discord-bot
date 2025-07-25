@@ -1,5 +1,4 @@
 // ★ Crafted by Kin ★
-// /ban Command – Hammer of ZenZi
 
 const { SlashCommandBuilder, PermissionFlagsBits } = require('discord.js');
 
